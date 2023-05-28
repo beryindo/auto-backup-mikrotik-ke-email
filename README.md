@@ -1,4 +1,9 @@
 # auto-backup-mikrotik-ke-email
+
+Tutor Seting Emailnya kesini
+https://youtu.be/HDLnYcB9ytY?t=201
+
+
 ```
 /system clock
 set time-zone-name=Asia/Jakarta
